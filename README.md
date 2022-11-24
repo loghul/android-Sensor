@@ -1,4 +1,8 @@
-# Ex.No:4 Develop a simple application to display the avaliable sensor in android mobile devices using Sensor Manager in android studio.
+### EX NO : 04
+### DATE  : 29/10/22
+# <p align="center"> Develop a simple application to display the avaliable sensor in android mobile devices using Sensor Manager in android studio.
+ </p>
+
 
 
 ## AIM:
